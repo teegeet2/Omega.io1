@@ -1,0 +1,26 @@
+{
+  "name": "omega.io1",
+  "version": "1.0.0",
+  "description": "simple Browser game",
+  "keywords": [
+    "Weissel"
+  ],
+  "homepage": "https://github.com/teegeet2/Omega.io1#readme",
+  "bugs": {
+    "url": "https://github.com/teegeet2/Omega.io1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teegeet2/Omega.io1.git"
+  },
+  "license": "ISC",
+  "author": "Theo Aigner",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
